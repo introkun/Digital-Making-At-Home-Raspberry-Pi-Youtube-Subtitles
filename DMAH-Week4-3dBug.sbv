@@ -1,0 +1,2340 @@
+0:00:01.120,0:00:09.550
+[Music]
+
+0:00:07.230,0:00:11.889
+hey everybody welcome back to another
+
+0:00:09.550,0:00:14.950
+digital making at home video this week
+
+0:00:11.889,0:00:16.869
+me and my sidekick Xavier hi we're gonna
+
+0:00:14.950,0:00:18.730
+be doing some stuff in block scared out
+
+0:00:16.869,0:00:20.950
+me yeah so we're gonna be doing some 3d
+
+0:00:18.730,0:00:24.369
+design and block scared is a lot like
+
+0:00:20.950,0:00:25.720
+scratch it's all math isn't it yeah yeah
+
+0:00:24.369,0:00:27.520
+so instead of like making animations or
+
+0:00:25.720,0:00:29.050
+things we just do heaps of 3d math tell
+
+0:00:27.520,0:00:30.160
+me lots of geometry which would be
+
+0:00:29.050,0:00:32.110
+tricky for you isn't exam ready done
+
+0:00:30.160,0:00:33.670
+that school yet so we had to do a lot of
+
+0:00:32.110,0:00:35.320
+learning didn't we to get blocks get to
+
+0:00:33.670,0:00:37.630
+work yeah but it was okay in the end
+
+0:00:35.320,0:00:39.780
+wasn't it and you make cool stuff so we
+
+0:00:37.630,0:00:42.250
+show these people how to do that today
+
+0:00:39.780,0:00:44.559
+loads of numbers yeah but we'll come to
+
+0:00:42.250,0:00:45.969
+that in a sec right cool so what I'm
+
+0:00:44.559,0:00:48.250
+gonna do is only get Xavier to drive now
+
+0:00:45.969,0:00:50.350
+and we're going to duck across here to
+
+0:00:48.250,0:00:52.239
+the project site so you can see what
+
+0:00:50.350,0:00:56.469
+we're doing we click browse all projects
+
+0:00:52.239,0:00:58.149
+and today for our software we want lock
+
+0:00:56.469,0:00:59.710
+scared so that's just it here and we
+
+0:00:58.149,0:01:01.780
+click on block scared and you see it
+
+0:00:59.710,0:01:05.470
+narrows down to these three projects
+
+0:01:01.780,0:01:07.300
+here and which one do we do today's a 3d
+
+0:01:05.470,0:01:09.100
+bugs fantastic so we open up that
+
+0:01:07.300,0:01:10.270
+project and we can see here as we go
+
+0:01:09.100,0:01:12.580
+down what you will make you'll make
+
+0:01:10.270,0:01:13.810
+these little 3d bug here but you can
+
+0:01:12.580,0:01:15.250
+mess around with your own one and change
+
+0:01:13.810,0:01:16.390
+the numbers but for ease of math we're
+
+0:01:15.250,0:01:18.220
+just gonna follow the instructions today
+
+0:01:16.390,0:01:19.330
+wrote it we made some cool stuff earlier
+
+0:01:18.220,0:01:20.560
+but today we're just going to keep it
+
+0:01:19.330,0:01:24.520
+simple so that everyone can follow along
+
+0:01:20.560,0:01:25.870
+so what you will learn today it explains
+
+0:01:24.520,0:01:27.670
+you here we're gonna do some 3d modeling
+
+0:01:25.870,0:01:29.800
+with geometric shapes mostly with
+
+0:01:27.670,0:01:31.450
+spheres which we're gonna stretch and
+
+0:01:29.800,0:01:32.950
+skew and do weird things and we're going
+
+0:01:31.450,0:01:35.380
+to use scale to make that happen
+
+0:01:32.950,0:01:36.940
+so the introduction was step forward so
+
+0:01:35.380,0:01:38.650
+say if you want to take over you can
+
+0:01:36.940,0:01:40.330
+just drive from here so if you follow
+
+0:01:38.650,0:01:42.460
+the project along and you click on the
+
+0:01:40.330,0:01:44.140
+blocks CAD comm editor link at the top
+
+0:01:42.460,0:01:46.540
+there where the first tick is it will
+
+0:01:44.140,0:01:47.410
+open up the blocks account editor that
+
+0:01:46.540,0:01:49.630
+means they've you've already got one
+
+0:01:47.410,0:01:51.070
+open so if you click that top tick so
+
+0:01:49.630,0:01:52.780
+that we've done it and then you can just
+
+0:01:51.070,0:01:53.860
+change tabs across to our blocks care to
+
+0:01:52.780,0:01:55.450
+show everybody where we've got it and
+
+0:01:53.860,0:01:57.460
+what it looks like we're giving a bit of
+
+0:01:55.450,0:01:59.050
+an explanation so you can see here the
+
+0:01:57.460,0:02:00.970
+blocks count is very similar to scratch
+
+0:01:59.050,0:02:02.500
+in the way that's laid out on the left
+
+0:02:00.970,0:02:05.410
+there you've got a bunch of menus to
+
+0:02:02.500,0:02:07.000
+show with menus as a yet one of the 3d
+
+0:02:05.410,0:02:08.890
+shapes and 2d shapes and you can see
+
+0:02:07.000,0:02:10.750
+they're laid out by color and as we work
+
+0:02:08.890,0:02:12.430
+through the project today our blocks in
+
+0:02:10.750,0:02:14.049
+the project instructions have exactly
+
+0:02:12.430,0:02:15.640
+the same
+
+0:02:14.049,0:02:17.500
+it does say math yeah there's loads of
+
+0:02:15.640,0:02:18.700
+math about to happen you can see in the
+
+0:02:17.500,0:02:20.140
+middle there's the workspace which is
+
+0:02:18.700,0:02:21.250
+where you drag all your code blocks and
+
+0:02:20.140,0:02:22.870
+there's only clip them together just
+
+0:02:21.250,0:02:24.400
+like scratch and join a show everybody
+
+0:02:22.870,0:02:26.470
+where the rendering space is it shows
+
+0:02:24.400,0:02:32.019
+our picture where's that that's here
+
+0:02:26.470,0:02:33.640
+isn't it and so we can see datum yeah
+
+0:02:32.019,0:02:35.049
+and so do you ever what the three axes
+
+0:02:33.640,0:02:37.750
+are called what the letters are they
+
+0:02:35.049,0:02:40.120
+have what's the sideways one it's the
+
+0:02:37.750,0:02:42.549
+same letter as your name Thanks what's
+
+0:02:40.120,0:02:44.109
+the up-and-down one and then third
+
+0:02:42.549,0:02:45.220
+dimension is Zed very good it took a
+
+0:02:44.109,0:02:46.870
+little while to get there didn't it
+
+0:02:45.220,0:02:49.629
+because when we work in scratch we have
+
+0:02:46.870,0:02:51.730
+X and we have Y and when we work in 3d
+
+0:02:49.629,0:02:52.900
+we have said which is depth okay so
+
+0:02:51.730,0:03:06.040
+there's a unity for the shape to get
+
+0:02:52.900,0:03:07.959
+bigger and Y goes up yeah the forth
+
+0:03:06.040,0:03:09.129
+enough depth fantastic so we're gonna be
+
+0:03:07.959,0:03:10.750
+working with depth today so if you
+
+0:03:09.129,0:03:12.549
+haven't done 3d geometry before at
+
+0:03:10.750,0:03:13.599
+school that's okay if you follow the
+
+0:03:12.549,0:03:15.430
+instructions it'll give you a nice
+
+0:03:13.599,0:03:17.290
+little primer on exactly what geometric
+
+0:03:15.430,0:03:18.760
+shapes are we're working with mostly
+
+0:03:17.290,0:03:20.620
+spheres which is what you get when you
+
+0:03:18.760,0:03:22.269
+make a circle and you take that out into
+
+0:03:20.620,0:03:24.340
+three dimensions and it becomes nice and
+
+0:03:22.269,0:03:25.389
+round like a ball shape so to start with
+
+0:03:24.340,0:03:26.470
+say if you want to go back to the
+
+0:03:25.389,0:03:29.349
+project so I just have a look at our
+
+0:03:26.470,0:03:31.629
+instructions what do we need to do up a
+
+0:03:29.349,0:03:36.040
+bit well the tab is that's it so we need
+
+0:03:31.629,0:03:46.870
+to start with what a sphere yet with
+
+0:03:36.040,0:03:49.000
+radius R fantastic millimeters it's a
+
+0:03:46.870,0:03:50.470
+tricky word that one right so for the
+
+0:03:49.000,0:03:52.720
+people at home what that means is when
+
+0:03:50.470,0:03:56.199
+you make a sphere in your project today
+
+0:03:52.720,0:03:57.760
+and this radius is 10 that will be 10
+
+0:03:56.199,0:03:59.650
+millimeters in the real world it will
+
+0:03:57.760,0:04:01.510
+translate out to about a centimeter in
+
+0:03:59.650,0:04:03.099
+the real world so what we're going to do
+
+0:04:01.510,0:04:05.019
+is click across me we're gonna make our
+
+0:04:03.099,0:04:07.810
+sphere with radius 10 so go back to
+
+0:04:05.019,0:04:10.810
+block scared that's it and drag your 3d
+
+0:04:07.810,0:04:12.760
+shape and we want to spear with radius
+
+0:04:10.810,0:04:14.319
+10 so drag that in that so on and save
+
+0:04:12.760,0:04:15.220
+you just pop that in the workspace so
+
+0:04:14.319,0:04:16.570
+how do we get everyone to see our
+
+0:04:15.220,0:04:17.949
+pictures if you want to click to show
+
+0:04:16.570,0:04:19.269
+the sphere we make a sphere in our
+
+0:04:17.949,0:04:22.990
+render space what's the button that we
+
+0:04:19.269,0:04:25.270
+have a click that's it so we click it
+
+0:04:22.990,0:04:26.500
+and it will make a sphere fantastic so
+
+0:04:25.270,0:04:27.040
+we've got to see you there that's radius
+
+0:04:26.500,0:04:31.590
+10
+
+0:04:27.040,0:04:39.010
+you change the color of is a square yes
+
+0:04:31.590,0:04:43.570
+go pick a new color yeah so what are you
+
+0:04:39.010,0:04:45.100
+gonna pick and that makes us fear blue
+
+0:04:43.570,0:04:46.510
+it's just a cosmetic and remembering
+
+0:04:45.100,0:04:48.130
+that when you three these printers ink
+
+0:04:46.510,0:04:50.520
+and what will it mean when it's 3d
+
+0:04:48.130,0:04:57.550
+prints what color will it come out or
+
+0:04:50.520,0:05:00.960
+why because if then will you have to do
+
+0:04:57.550,0:05:03.460
+it because that's the only piece of card
+
+0:05:00.960,0:05:04.750
+right so the filament that we have in
+
+0:05:03.460,0:05:06.400
+our 3d printer we're lucky enough to
+
+0:05:04.750,0:05:07.960
+have a 3d printer here at home and the
+
+0:05:06.400,0:05:09.910
+filament that we have is pink and black
+
+0:05:07.960,0:05:12.160
+so whatever colors you guys pick in your
+
+0:05:09.910,0:05:13.690
+project it won't come out on the 3d
+
+0:05:12.160,0:05:15.970
+printer but when you make those files in
+
+0:05:13.690,0:05:17.380
+3d they'll keep the color in the file
+
+0:05:15.970,0:05:19.570
+but 3d printing it's down to whatever
+
+0:05:17.380,0:05:25.900
+filament you have in your 3d printer so
+
+0:05:19.570,0:05:27.850
+picking colors here it does that's a
+
+0:05:25.900,0:05:29.260
+good question about 3d printing so
+
+0:05:27.850,0:05:31.720
+there's different kinds of plastic
+
+0:05:29.260,0:05:33.670
+there's PLA and abs are the two most
+
+0:05:31.720,0:05:35.890
+common ones we have PLA in our printer
+
+0:05:33.670,0:05:37.630
+and both of those we have black PLA and
+
+0:05:35.890,0:05:38.860
+we have pink PLA so when we print out
+
+0:05:37.630,0:05:40.360
+you get to pick what color out of those
+
+0:05:38.860,0:05:42.190
+two but when we're working in the
+
+0:05:40.360,0:05:43.630
+project today we can make it any kind of
+
+0:05:42.190,0:05:46.360
+color that we want and save that file
+
+0:05:43.630,0:05:47.590
+yeah cool so back to the project so I
+
+0:05:46.360,0:05:50.050
+could've got a sphere that's exactly
+
+0:05:47.590,0:05:53.950
+what I wanted us to do okay so you can
+
+0:05:50.050,0:05:55.720
+take that tick-tick-tick see it and go
+
+0:05:53.950,0:05:56.980
+down a little bit so now we're going to
+
+0:05:55.720,0:05:58.330
+take our sphere and you can see in the
+
+0:05:56.980,0:06:00.400
+instructions here we're going to be
+
+0:05:58.330,0:06:02.710
+using a dark blue block which isn't our
+
+0:06:00.400,0:06:04.300
+transforms in the transforms menu so we
+
+0:06:02.710,0:06:06.010
+want to stretch it out a little bit to
+
+0:06:04.300,0:06:07.570
+make a body shape so rather than it
+
+0:06:06.010,0:06:09.870
+being a nice round ball we want our bug
+
+0:06:07.570,0:06:15.330
+to be slightly I'm just about to say you
+
+0:06:09.870,0:06:15.330
+can make it that's gonna be the body
+
+0:06:16.770,0:06:21.010
+yeah cool so what we do is let's go back
+
+0:06:19.750,0:06:22.810
+to our project now and we're dragging
+
+0:06:21.010,0:06:28.420
+our scale block so that's a dark blue
+
+0:06:22.810,0:06:29.650
+block scale this transform yeah that's
+
+0:06:28.420,0:06:32.230
+it and we're gonna pop that in our
+
+0:06:29.650,0:06:34.810
+workspace you can see there's a green
+
+0:06:32.230,0:06:37.150
+very good one
+
+0:06:34.810,0:06:39.520
+when I take this out you can see you
+
+0:06:37.150,0:06:40.360
+agreement um yeah and that's how you
+
+0:06:39.520,0:06:42.310
+know it's gonna clip it
+
+0:06:40.360,0:06:43.860
+excellent so you know why because we
+
+0:06:42.310,0:06:46.000
+want to stretch it along the y-axis
+
+0:06:43.860,0:06:47.080
+we're going to take that Y number and
+
+0:06:46.000,0:06:54.550
+click in the little block there's a V
+
+0:06:47.080,0:06:56.469
+make it one point two okay so you got to
+
+0:06:54.550,0:07:00.580
+have the one before the decimal place so
+
+0:06:56.469,0:07:02.590
+one point two cool and then when you
+
+0:07:00.580,0:07:03.849
+click render it will change your picture
+
+0:07:02.590,0:07:05.050
+okay so it won't change automatically
+
+0:07:03.849,0:07:06.729
+have to click render and then it works
+
+0:07:05.050,0:07:08.379
+out what you want and if you grab the
+
+0:07:06.729,0:07:10.509
+picture and drag with the left mouse you
+
+0:07:08.379,0:07:12.129
+can move it around okay we can see that
+
+0:07:10.509,0:07:15.909
+our sphere is slightly longer than it
+
+0:07:12.129,0:07:16.840
+was before it you can't make a bit
+
+0:07:15.909,0:07:17.919
+longer if you want but we'll leave it
+
+0:07:16.840,0:07:19.029
+there for now today just to keep it
+
+0:07:17.919,0:07:20.469
+simple so you wanna show everybody how
+
+0:07:19.029,0:07:22.300
+you reset the view what's the thing you
+
+0:07:20.469,0:07:26.289
+click to put it back so we can see a
+
+0:07:22.300,0:07:28.029
+target yeah yep you click it there we go
+
+0:07:26.289,0:07:29.979
+resets our view so that if we
+
+0:07:28.029,0:07:31.210
+accidentally like spin upside down or
+
+0:07:29.979,0:07:32.289
+get underneath and we want to go back to
+
+0:07:31.210,0:07:41.199
+the way it was we just click the target
+
+0:07:32.289,0:07:42.819
+and a recess nice so let's go back to
+
+0:07:41.199,0:07:44.110
+our instructions we can tick that one
+
+0:07:42.819,0:07:48.370
+can we made have bugs body a little bit
+
+0:07:44.110,0:07:49.960
+longer can it down a bit so what we're
+
+0:07:48.370,0:07:51.639
+gonna do here is can you see how we're
+
+0:07:49.960,0:07:53.139
+gonna change another number now said
+
+0:07:51.639,0:07:54.969
+access and what that'll do is that's
+
+0:07:53.139,0:07:56.440
+gonna take a shape and it's gonna squish
+
+0:07:54.969,0:07:57.789
+it down a little bit it's not gonna make
+
+0:07:56.440,0:07:58.750
+it so around anymore it's gonna squish
+
+0:07:57.789,0:08:02.919
+the loop with flash and make it more
+
+0:07:58.750,0:08:03.969
+like a dirty but make it good like you
+
+0:08:02.919,0:08:09.639
+couldn't do that though if you wanted to
+
+0:08:03.969,0:08:10.810
+right yeah no it'll be flat right and be
+
+0:08:09.639,0:08:12.639
+- neither am i sort of defeats the
+
+0:08:10.810,0:08:14.889
+purpose cool so let's go back and change
+
+0:08:12.639,0:08:17.110
+our Zed number in our transform so just
+
+0:08:14.889,0:08:18.879
+in the last block there that's it yeah
+
+0:08:17.110,0:08:20.949
+so where it says Ed's I don't at the end
+
+0:08:18.879,0:08:29.199
+of your scale block that's it we're
+
+0:08:20.949,0:08:34.269
+gonna change that to 0.8 that's it and
+
+0:08:29.199,0:08:35.500
+then re render render and then again it
+
+0:08:34.269,0:08:37.810
+flattened out and we did that made it be
+
+0:08:35.500,0:08:39.310
+more squat for us so that's cool
+
+0:08:37.810,0:08:41.800
+she'll get back to our structures to see
+
+0:08:39.310,0:08:44.260
+what the next step is awesome so he's
+
+0:08:41.800,0:08:46.779
+our team yeah and then flatten the base
+
+0:08:44.260,0:08:48.579
+so what this means is when you do 3d
+
+0:08:46.779,0:08:50.199
+printing you need to have a nice flat
+
+0:08:48.579,0:08:51.850
+bottom on the thing that you're printing
+
+0:08:50.199,0:08:53.880
+because if it's got a round spherical
+
+0:08:51.850,0:08:55.170
+bottom when you try and print it
+
+0:08:53.880,0:08:56.730
+we printed we'll try and print that
+
+0:08:55.170,0:08:58.950
+unless you make support for it it will
+
+0:08:56.730,0:08:59.970
+just wobble over okay so we want to try
+
+0:08:58.950,0:09:01.650
+and remove that and make the whole
+
+0:08:59.970,0:09:03.750
+bottom of that thing nice and flat we're
+
+0:09:01.650,0:09:07.650
+going to cut it off with a zero about
+
+0:09:03.750,0:09:10.290
+zero if you go back yep quick and you
+
+0:09:07.650,0:09:12.480
+can see if you move down there's another
+
+0:09:10.290,0:09:15.090
+one what we're gonna do is not cut the
+
+0:09:12.480,0:09:17.910
+whole thing like the top we're gonna cut
+
+0:09:15.090,0:09:20.490
+on the on the line which is right just
+
+0:09:17.910,0:09:21.990
+there I'm gonna cut the bottom half off
+
+0:09:20.490,0:09:22.740
+our my sauce nice and flats going like a
+
+0:09:21.990,0:09:24.300
+heart shape
+
+0:09:22.740,0:09:25.490
+cool so let's go back to my structures
+
+0:09:24.300,0:09:27.660
+and have a look at what we need to add
+
+0:09:25.490,0:09:29.310
+so what's our next block we're gonna
+
+0:09:27.660,0:09:29.790
+make what shape is that save us save
+
+0:09:29.310,0:09:32.640
+that
+
+0:09:29.790,0:09:37.200
+yes yeah what shape is that the yellow
+
+0:09:32.640,0:09:38.790
+shape yeah it's a cube it's a cube so
+
+0:09:37.200,0:09:43.380
+we're gonna go back and we're gonna grab
+
+0:09:38.790,0:09:47.160
+a cube block from our 3d shapes this is
+
+0:09:43.380,0:09:48.360
+Q Betsy drag it in pop it down in the
+
+0:09:47.160,0:09:51.410
+middlee workspace anywhere it goes
+
+0:09:48.360,0:09:53.520
+that's fine okay let's go back to our
+
+0:09:51.410,0:09:56.940
+instructions I see what else we need to
+
+0:09:53.520,0:09:58.950
+add okay so we need a translate block
+
+0:09:56.940,0:10:00.660
+and so when we're working in 3d
+
+0:09:58.950,0:10:02.310
+everybody we can do things like rotate
+
+0:10:00.660,0:10:04.290
+and translate and what translate means
+
+0:10:02.310,0:10:06.600
+is you take your shape and you move it
+
+0:10:04.290,0:10:08.520
+around okay so we can move it up move it
+
+0:10:06.600,0:10:16.800
+down left right forwards backwards all
+
+0:10:08.520,0:10:18.390
+those sorts of things you can do yep no
+
+0:10:16.800,0:10:19.290
+no no but it's the same thing right it's
+
+0:10:18.390,0:10:20.880
+what you do when you're having game
+
+0:10:19.290,0:10:21.990
+we're translating that shape so we're
+
+0:10:20.880,0:10:24.390
+moving it around so let's grab a
+
+0:10:21.990,0:10:28.640
+translate block flip it so that's our
+
+0:10:24.390,0:10:33.210
+transforms just clip it around our cube
+
+0:10:28.640,0:10:34.730
+in a cube fantastic so let's move them a
+
+0:10:33.210,0:10:37.170
+part of it to make a little bit neater
+
+0:10:34.730,0:10:38.670
+people consider then not link it up
+
+0:10:37.170,0:10:40.680
+fantastic that's it
+
+0:10:38.670,0:10:41.880
+cool and so we're gonna make that cube
+
+0:10:40.680,0:10:43.650
+and we haven't rendered it yet which is
+
+0:10:41.880,0:10:45.420
+why our cube has it appeared so we'll do
+
+0:10:43.650,0:10:46.530
+that no little me no not just yet so
+
+0:10:45.420,0:10:47.790
+we're going to translate it and what we
+
+0:10:46.530,0:10:50.220
+want to do is we want to take that cube
+
+0:10:47.790,0:10:51.990
+and we want to drop it down in our said
+
+0:10:50.220,0:10:55.530
+axis so we want to put in our Zed square
+
+0:10:51.990,0:11:00.900
+we want to put minus 5 so pop minus 5 in
+
+0:10:55.530,0:11:03.060
+there's a minus 5 yeah negative 5 cool
+
+0:11:00.900,0:11:05.820
+and then let's go back because we want
+
+0:11:03.060,0:11:07.589
+to add go to transforms and we want to
+
+0:11:05.820,0:11:07.850
+add color so pick a color one and we'll
+
+0:11:07.589,0:11:09.259
+just
+
+0:11:07.850,0:11:11.300
+yellow for now because that's the way it
+
+0:11:09.259,0:11:12.709
+is in the instructions and clip it
+
+0:11:11.300,0:11:16.959
+around your cue block the one we just
+
+0:11:12.709,0:11:21.350
+made click that's it and the whole thing
+
+0:11:16.959,0:11:23.420
+up up up oh that's it
+
+0:11:21.350,0:11:25.250
+bang okay so moving the part again so
+
+0:11:23.420,0:11:26.959
+nice and neat fantastic and so now when
+
+0:11:25.250,0:11:28.220
+we click render we'll get our sphere
+
+0:11:26.959,0:11:29.930
+that we've already made and we'll also
+
+0:11:28.220,0:11:31.490
+have it render a new cube for us that's
+
+0:11:29.930,0:11:35.930
+yellow well but it's not quite right it
+
+0:11:31.490,0:11:36.920
+looks a bit wonky so let's go back and
+
+0:11:35.930,0:11:38.839
+our instructions have a look at what
+
+0:11:36.920,0:11:40.399
+numbers we need to pop in there so we
+
+0:11:38.839,0:11:42.980
+want - fire but what we want with our
+
+0:11:40.399,0:11:45.199
+cube is we want it to be 50 50 and 10
+
+0:11:42.980,0:11:46.790
+and the important theme the last thing
+
+0:11:45.199,0:11:48.680
+that drop-down menu that says centered
+
+0:11:46.790,0:11:50.630
+we need to make sure it's centered not
+
+0:11:48.680,0:11:53.870
+that the corner is at zero zero zero on
+
+0:11:50.630,0:11:58.100
+the center of our cube to be as you go
+
+0:11:53.870,0:12:00.500
+back and that has to take that way so
+
+0:11:58.100,0:12:03.230
+that it says then there we go fantastic
+
+0:12:00.500,0:12:10.630
+and we want to change those to just
+
+0:12:03.230,0:12:10.630
+leave that right we do leave that 50/50
+
+0:12:20.380,0:12:23.899
+there we go and so now if you move it
+
+0:12:22.579,0:12:26.300
+around say V you can see that we've got
+
+0:12:23.899,0:12:27.649
+a big cube which is fine the enormous
+
+0:12:26.300,0:12:29.930
+cube is fine we're about to turn that
+
+0:12:27.649,0:12:32.000
+cube into a big eraser that will remove
+
+0:12:29.930,0:12:33.079
+everything that's inside it so we want
+
+0:12:32.000,0:12:34.490
+to be as big as possible that's
+
+0:12:33.079,0:12:36.230
+absolutely fine it will cover all the
+
+0:12:34.490,0:12:37.970
+parts of the bug that we might need to
+
+0:12:36.230,0:12:39.050
+make in the future so let's go back to
+
+0:12:37.970,0:12:41.899
+my structures and work out how to do
+
+0:12:39.050,0:12:43.160
+that David you remember ok so click the
+
+0:12:41.899,0:12:44.389
+tip because we've made our cube and it
+
+0:12:43.160,0:12:45.980
+looks like that and that's fantastic
+
+0:12:44.389,0:12:47.750
+let's go down a bit if we want a
+
+0:12:45.980,0:12:50.569
+different blocks and what covers our
+
+0:12:47.750,0:12:53.000
+difference block it pop it's purple and
+
+0:12:50.569,0:12:56.300
+that's our set up source it operations
+
+0:12:53.000,0:12:58.100
+under the normal form no it's under set
+
+0:12:56.300,0:13:00.980
+or brush that's it click that one and we
+
+0:12:58.100,0:13:03.110
+want the difference so that's a - so you
+
+0:13:00.980,0:13:04.730
+can see it also tells you plus and minus
+
+0:13:03.110,0:13:07.699
+in the block so we want to - we want to
+
+0:13:04.730,0:13:10.519
+have everything - what's inside that
+
+0:13:07.699,0:13:14.060
+cube so let's pop our scale one in the
+
+0:13:10.519,0:13:15.019
+top so pop a sphere in the top hole so
+
+0:13:14.060,0:13:16.519
+you can move that into the middle of the
+
+0:13:15.019,0:13:18.050
+table that's it and drag that in that's
+
+0:13:16.519,0:13:20.940
+much easier to do so drag your way into
+
+0:13:18.050,0:13:22.260
+the top hole that's it
+
+0:13:20.940,0:13:25.110
+then the other one into the bottom hole
+
+0:13:22.260,0:13:26.520
+this one yeah and so what that will do
+
+0:13:25.110,0:13:28.170
+is before we click render let's explain
+
+0:13:26.520,0:13:30.510
+what we've done so we're going to draw a
+
+0:13:28.170,0:13:32.970
+sphere and it's going to be minus
+
+0:13:30.510,0:13:35.870
+everything that's inside where that cube
+
+0:13:32.970,0:13:38.940
+appears so if you render it now Xavier
+
+0:13:35.870,0:13:40.260
+render a shape that's all gone the only
+
+0:13:38.940,0:13:42.030
+thing we have left is the bit of sphere
+
+0:13:40.260,0:13:45.330
+that isn't inside the cube and that's
+
+0:13:42.030,0:13:46.320
+exactly what we want so awesome
+
+0:13:45.330,0:13:47.450
+you want to move it around show
+
+0:13:46.320,0:13:49.980
+everybody what your bugs body looks like
+
+0:13:47.450,0:14:00.570
+that's it's all gone from underneath the
+
+0:13:49.980,0:14:02.100
+zero so let's reset our view there we go
+
+0:14:00.570,0:14:05.070
+and we go back to our structures now
+
+0:14:02.100,0:14:07.770
+we're well on our way to making a bug so
+
+0:14:05.070,0:14:10.500
+we can click the tick there and we can
+
+0:14:07.770,0:14:16.710
+say add our head to the bug so what
+
+0:14:10.500,0:14:18.150
+shape is that bugs body what's the name
+
+0:14:16.710,0:14:20.430
+for that shape the bullshit we've been
+
+0:14:18.150,0:14:29.970
+saying it a lot it's fear very good so
+
+0:14:20.430,0:14:33.860
+what shape let's head B so yeah so yeah
+
+0:14:29.970,0:14:36.510
+so let's make us let's make a new sphere
+
+0:14:33.860,0:14:41.130
+so what could we do happy we cheekily
+
+0:14:36.510,0:14:42.930
+make a sphere very quickly ok there we
+
+0:14:41.130,0:14:44.520
+go we always want to work smarter never
+
+0:14:42.930,0:14:45.750
+harder so right click on there yet
+
+0:14:44.520,0:14:47.190
+that's it the blue block and click
+
+0:14:45.750,0:14:48.830
+duplicate and we get a whole new setup
+
+0:14:47.190,0:14:50.970
+so move that away so people can see it
+
+0:14:48.830,0:14:52.950
+ok so you'll see that we're we've got
+
+0:14:50.970,0:14:54.120
+that that sphere will be exactly the
+
+0:14:52.950,0:14:55.470
+same as the sphere that we've already
+
+0:14:54.120,0:14:57.480
+produced and we don't really want that
+
+0:14:55.470,0:14:59.280
+we want to have a smaller sphere so
+
+0:14:57.480,0:15:00.630
+let's change the radius numbers a B and
+
+0:14:59.280,0:15:04.320
+let's change that radius number down to
+
+0:15:00.630,0:15:05.640
+6 okay and so wise a bees doing that
+
+0:15:04.320,0:15:08.100
+I'll explain to you because when we work
+
+0:15:05.640,0:15:10.440
+in shapes if you have a circle okay the
+
+0:15:08.100,0:15:12.210
+radius is this point from the middle of
+
+0:15:10.440,0:15:14.850
+the circle out to the edge of that
+
+0:15:12.210,0:15:16.440
+circle okay and with a sphere the radius
+
+0:15:14.850,0:15:18.930
+is the point from the dead center of the
+
+0:15:16.440,0:15:20.100
+ball out to the edge of the ball and so
+
+0:15:18.930,0:15:21.900
+we're going to have one of our body
+
+0:15:20.100,0:15:23.430
+that's got a radius of 10 so from the
+
+0:15:21.900,0:15:25.110
+middle to the edges 10 millimeters and
+
+0:15:23.430,0:15:28.740
+another one where from the middle to the
+
+0:15:25.110,0:15:31.230
+edge is six millimeters so because if it
+
+0:15:28.740,0:15:32.610
+was 10 it'll be too big yeah well it'd
+
+0:15:31.230,0:15:34.560
+be the same size wouldn't it nobody's
+
+0:15:32.610,0:15:36.959
+got a head the same size of their body
+
+0:15:34.560,0:15:42.600
+yeah yeah so when we click render what's
+
+0:15:36.959,0:15:44.129
+going to happen why can't we see our
+
+0:15:42.600,0:15:45.449
+head level there we go interesting so
+
+0:15:44.129,0:15:47.329
+it's made it we can tell that it's made
+
+0:15:45.449,0:15:52.019
+it but it hasn't quite removed it yet
+
+0:15:47.329,0:15:53.850
+because it's not you know TAS look like
+
+0:15:52.019,0:15:58.680
+a hominem cutters good point man
+
+0:15:53.850,0:16:00.600
+so let's reset our view again let's see
+
+0:15:58.680,0:16:02.069
+the target there we go and so what we
+
+0:16:00.600,0:16:05.459
+need to do now is if you go to set up
+
+0:16:02.069,0:16:07.980
+say via and choose Union it's a purple
+
+0:16:05.459,0:16:09.930
+menu and Union that's the top one so
+
+0:16:07.980,0:16:11.040
+this is a plus so what we wanted to hear
+
+0:16:09.930,0:16:13.819
+I only have Union we're going to say
+
+0:16:11.040,0:16:16.740
+take this and this smoosh them together
+
+0:16:13.819,0:16:19.050
+make them one big piece and so I'm gonna
+
+0:16:16.740,0:16:21.959
+grab a sphere with radius 10 it's fit
+
+0:16:19.050,0:16:24.959
+yep so the one that we made inside our
+
+0:16:21.959,0:16:26.490
+difference block that's it grab it and
+
+0:16:24.959,0:16:28.290
+drag into the bottom hole of our Union
+
+0:16:26.490,0:16:31.499
+and then we took the new block that we
+
+0:16:28.290,0:16:33.230
+made into the top hole there the scale
+
+0:16:31.499,0:16:36.059
+that's it drag that one into the top and
+
+0:16:33.230,0:16:37.439
+then we put the whole Union block inside
+
+0:16:36.059,0:16:43.980
+the hot top hole of that difference
+
+0:16:37.439,0:16:45.029
+block okay so yeah so before we render
+
+0:16:43.980,0:16:49.620
+let's explain to everybody what we're
+
+0:16:45.029,0:16:52.589
+doing okay so what we have now is if you
+
+0:16:49.620,0:16:54.629
+press + is going the extra space see
+
+0:16:52.589,0:16:56.490
+yeah but we don't need that right now -
+
+0:16:54.629,0:16:58.139
+so clicking - that's a good point but
+
+0:16:56.490,0:16:59.819
+like let's do that when it's relevant
+
+0:16:58.139,0:17:01.110
+yeah just throwing information in and
+
+0:16:59.819,0:17:02.759
+confuse people it's good do you know how
+
+0:17:01.110,0:17:04.530
+to drive it man but let's run through
+
+0:17:02.759,0:17:06.480
+the instructions briefly yes okay cool
+
+0:17:04.530,0:17:07.799
+so what I'm gonna do now is if we click
+
+0:17:06.480,0:17:09.630
+render what it's going to do it's going
+
+0:17:07.799,0:17:12.720
+to join those two spheres together for
+
+0:17:09.630,0:17:13.620
+us just like this and it will chop the
+
+0:17:12.720,0:17:15.209
+bottom off them because they're all
+
+0:17:13.620,0:17:16.409
+inside that difference now so you can
+
+0:17:15.209,0:17:18.089
+see that it's got make us via mega
+
+0:17:16.409,0:17:21.530
+sphere and then remove all the cube
+
+0:17:18.089,0:17:23.909
+underneath now why can't we see the head
+
+0:17:21.530,0:17:32.280
+right so what we need to do with it we
+
+0:17:23.909,0:17:33.780
+need to once the one tur translate yeah
+
+0:17:32.280,0:17:35.549
+yeah we want to move it so let's go back
+
+0:17:33.780,0:17:36.899
+to our instructions and have a look okay
+
+0:17:35.549,0:17:38.130
+so we can click that tick because we've
+
+0:17:36.899,0:17:39.870
+got the feet sphere inside another
+
+0:17:38.130,0:17:42.929
+sphere so what I need to do is if you go
+
+0:17:39.870,0:17:44.760
+down okay and that one just there just
+
+0:17:42.929,0:17:46.740
+tells you so you can remove the body so
+
+0:17:44.760,0:17:48.060
+if you right-click on the body block you
+
+0:17:46.740,0:17:49.530
+can disable the blocks
+
+0:17:48.060,0:17:54.210
+it doesn't work and it will show you the
+
+0:17:49.530,0:17:55.950
+head but we're gonna skip that far yeah
+
+0:17:54.210,0:17:58.320
+cool so click that teacup there's only
+
+0:17:55.950,0:17:59.880
+the Milotic yeah and then down to the
+
+0:17:58.320,0:18:04.260
+next part so we're gonna translate along
+
+0:17:59.880,0:18:06.150
+the y-axis so get your transform and
+
+0:18:04.260,0:18:09.030
+grab your translate block that's it and
+
+0:18:06.150,0:18:10.170
+pop it in your workspace just in the
+
+0:18:09.030,0:18:12.330
+middle your workspace that's it grab
+
+0:18:10.170,0:18:14.010
+your top scale block so the one that's
+
+0:18:12.330,0:18:16.620
+for the sphere up up up let navy blue
+
+0:18:14.010,0:18:18.140
+block that's it no no let's on grab that
+
+0:18:16.620,0:18:20.580
+one and drag it into the translate block
+
+0:18:18.140,0:18:22.610
+change the number in the Y at the top
+
+0:18:20.580,0:18:26.820
+there to five yep
+
+0:18:22.610,0:18:31.830
+make let's say five cool and then drag
+
+0:18:26.820,0:18:39.210
+the whole thing back into the top okay
+
+0:18:31.830,0:18:39.990
+now when we render it should it's not
+
+0:18:39.210,0:18:42.630
+quite there yet
+
+0:18:39.990,0:18:44.370
+interesting so maybe what we need to do
+
+0:18:42.630,0:18:45.900
+is add a bit more to the wire let's see
+
+0:18:44.370,0:18:48.360
+if we can make that whine a little bit
+
+0:18:45.900,0:18:50.280
+bigger and see if the head appears so
+
+0:18:48.360,0:18:58.350
+that little number Y that's it click in
+
+0:18:50.280,0:19:01.470
+there you could stick 10 try it but
+
+0:18:58.350,0:19:05.490
+sometimes it can go owl the body there
+
+0:19:01.470,0:19:07.410
+it is that's pretty cool you can make it
+
+0:19:05.490,0:19:08.970
+bit wider but I wouldn't say well you
+
+0:19:07.410,0:19:10.320
+can do if you want me to scale it scale
+
+0:19:08.970,0:19:12.150
+it along the x-axis if you wanna make it
+
+0:19:10.320,0:19:13.350
+fatter just change that none that next
+
+0:19:12.150,0:19:14.880
+one down let's translate you want to
+
+0:19:13.350,0:19:16.620
+scale it let's see it's a scale means
+
+0:19:14.880,0:19:18.300
+that you're changing along one direction
+
+0:19:16.620,0:19:20.940
+you're making a fatter or narrower along
+
+0:19:18.300,0:19:23.670
+one direction x-axis would be a bit
+
+0:19:20.940,0:19:26.040
+fatter if you want go and then change it
+
+0:19:23.670,0:19:27.210
+scale it so you want to scale both of us
+
+0:19:26.040,0:19:28.560
+have ears along the X so you've got it
+
+0:19:27.210,0:19:30.390
+selected already if you make that number
+
+0:19:28.560,0:19:31.530
+slightly bigger one point something yep
+
+0:19:30.390,0:19:34.410
+the one you've already got selected so
+
+0:19:31.530,0:19:43.770
+you want to be one in a second over the
+
+0:19:34.410,0:19:44.610
+top number one so one point sure so now
+
+0:19:43.770,0:19:46.620
+render it again
+
+0:19:44.610,0:19:50.160
+and you see it will change the fatness
+
+0:19:46.620,0:19:51.630
+of his head for us now as a Mikey yeah
+
+0:19:50.160,0:19:54.270
+the body is the next one down so if you
+
+0:19:51.630,0:19:57.300
+scale the next one down change it down
+
+0:19:54.270,0:20:00.480
+here Denton that next one down and then
+
+0:19:57.300,0:20:01.660
+that's it where is his scale X yep the
+
+0:20:00.480,0:20:03.760
+one across in the
+
+0:20:01.660,0:20:05.410
+xblock and you can make that fat in
+
+0:20:03.760,0:20:06.400
+there too so one point I don't want to
+
+0:20:05.410,0:20:07.780
+make the head bigger
+
+0:20:06.400,0:20:09.720
+okay we're changing back in a minute
+
+0:20:07.780,0:20:12.550
+gonna make a body fat oh yeah don't put
+
+0:20:09.720,0:20:22.150
+one point something like point something
+
+0:20:12.550,0:20:23.350
+we'll make it smaller yeah
+
+0:20:22.150,0:20:25.360
+did you wanna make the head smaller you
+
+0:20:23.350,0:20:26.710
+happy with that nurse okay so that's it
+
+0:20:25.360,0:20:28.750
+change the scale there one point
+
+0:20:26.710,0:20:33.790
+something smaller maybe like one point
+
+0:20:28.750,0:20:39.970
+two okay
+
+0:20:33.790,0:20:41.560
+yeah and then render better yeah you're
+
+0:20:39.970,0:20:46.930
+diggin that awesome
+
+0:20:41.560,0:20:48.760
+can you make it like that yeah just
+
+0:20:46.930,0:20:49.930
+scale it up along the y-axis they'll
+
+0:20:48.760,0:20:50.950
+remember the more we play the numbers
+
+0:20:49.930,0:20:53.320
+the more we're going to have to think
+
+0:20:50.950,0:20:54.880
+about the maths later so I might be good
+
+0:20:53.320,0:20:56.140
+ideas for these purposes I mean we can
+
+0:20:54.880,0:20:57.370
+play with ours all we want later but
+
+0:20:56.140,0:20:59.680
+let's just leave this one simple for the
+
+0:20:57.370,0:21:03.130
+people at home okay so let's go back to
+
+0:20:59.680,0:21:04.630
+our instructions cool so you can click
+
+0:21:03.130,0:21:06.430
+that tick now because we've translated
+
+0:21:04.630,0:21:08.560
+our head out of the body all right so we
+
+0:21:06.430,0:21:10.540
+moved it along the y-axis we slid it
+
+0:21:08.560,0:21:11.830
+along the y axis which is translate so
+
+0:21:10.540,0:21:12.880
+now we can go back and change the color
+
+0:21:11.830,0:21:14.440
+of our head can't we just start making
+
+0:21:12.880,0:21:18.550
+it look cool and reminding everybody
+
+0:21:14.440,0:21:19.980
+so grab your color block just transforms
+
+0:21:18.550,0:21:22.930
+yep and you can grab that color block
+
+0:21:19.980,0:21:25.360
+yep and you can clip around the head one
+
+0:21:22.930,0:21:27.430
+which is the top block there yeah that's
+
+0:21:25.360,0:21:30.340
+it let go and then grab your other one
+
+0:21:27.430,0:21:31.750
+and clip it back in that's it okay cool
+
+0:21:30.340,0:21:33.280
+so now change that color of the head to
+
+0:21:31.750,0:21:36.310
+something else check it like red or blue
+
+0:21:33.280,0:21:36.970
+or black he gives your heart does
+
+0:21:36.310,0:21:38.410
+doesn't it
+
+0:21:36.970,0:21:41.700
+anything will do there don't spend too
+
+0:21:38.410,0:21:41.700
+much time thinking colorful right now
+
+0:21:44.490,0:21:48.580
+cool and then when you render and we
+
+0:21:47.140,0:21:50.110
+should see the head change color just so
+
+0:21:48.580,0:21:56.290
+we can detect that they're different
+
+0:21:50.110,0:21:59.980
+parts pow awesome looking good good
+
+0:21:56.290,0:22:01.570
+let's head back to my instructions X and
+
+0:21:59.980,0:22:02.920
+we can take that next box too so we
+
+0:22:01.570,0:22:04.690
+played there and remember everybody when
+
+0:22:02.920,0:22:06.250
+you 3d print it okay the colors we have
+
+0:22:04.690,0:22:08.170
+in block scared won't necessarily
+
+0:22:06.250,0:22:09.550
+translate to your 3d printer unless you
+
+0:22:08.170,0:22:11.830
+have any fancy 3d printers got like
+
+0:22:09.550,0:22:12.970
+multiple filament heads but how long we
+
+0:22:11.830,0:22:13.560
+have to choose before we start sewing
+
+0:22:12.970,0:22:16.650
+put the right
+
+0:22:13.560,0:22:17.730
+color plastic in so the next thing we
+
+0:22:16.650,0:22:19.140
+want to do is it gives you a challenge
+
+0:22:17.730,0:22:20.940
+here so you can change the color of your
+
+0:22:19.140,0:22:22.500
+mug body model so you just do that the
+
+0:22:20.940,0:22:24.000
+same way we change the head color you
+
+0:22:22.500,0:22:26.730
+just grab your color blocking drag it in
+
+0:22:24.000,0:22:27.990
+with it go so let's to create legs so
+
+0:22:26.730,0:22:31.230
+this is the next part we want to do we
+
+0:22:27.990,0:22:32.460
+want to try and create some legs oh yeah
+
+0:22:31.230,0:22:34.860
+we need to close right this is very good
+
+0:22:32.460,0:22:37.380
+you guys have zip for it astonishes so
+
+0:22:34.860,0:22:39.660
+we need to now make a pair of legs in
+
+0:22:37.380,0:22:41.460
+the bugs body so the way we're gonna do
+
+0:22:39.660,0:22:43.710
+that we're gonna make another CR and
+
+0:22:41.460,0:22:44.790
+we're gonna stretch this one out big and
+
+0:22:43.710,0:22:46.110
+narrow so it sort of having a nice
+
+0:22:44.790,0:22:48.210
+around we're gonna make it go like this
+
+0:22:46.110,0:22:49.530
+and it's gonna look like a pair legs you
+
+0:22:48.210,0:22:51.810
+know so let's do it now so let's add
+
+0:22:49.530,0:22:53.460
+another sphere so if we go to your union
+
+0:22:51.810,0:22:55.200
+block if you click the plus on your
+
+0:22:53.460,0:22:57.270
+screen there where it says Union click
+
+0:22:55.200,0:23:00.030
+the plus up there show everybody bang
+
+0:22:57.270,0:23:03.930
+right now we've got a new hole how do we
+
+0:23:00.030,0:23:06.540
+make a quick fear how do we quickly pop
+
+0:23:03.930,0:23:08.070
+a sphere in there yep loving it work
+
+0:23:06.540,0:23:13.110
+smarter not harder so right click on
+
+0:23:08.070,0:23:15.030
+scale duplicate Potter straight in yep
+
+0:23:13.110,0:23:16.110
+let's add a different color to it so
+
+0:23:15.030,0:23:17.220
+that we can see the legs will come out
+
+0:23:16.110,0:23:19.250
+of different color as well let's do
+
+0:23:17.220,0:23:23.940
+that's a grab another color block same
+
+0:23:19.250,0:23:26.340
+transforms in color to bring a bottom
+
+0:23:23.940,0:23:29.010
+scale block down at third sphere one we
+
+0:23:26.340,0:23:30.660
+just added yeah that's it then that's it
+
+0:23:29.010,0:23:35.520
+took them in there and pop your block
+
+0:23:30.660,0:23:36.930
+back inside that's it excellent okay so
+
+0:23:35.520,0:23:38.730
+you can leave that yellow that's totally
+
+0:23:36.930,0:23:40.020
+fine and then what we need to do is
+
+0:23:38.730,0:23:42.090
+we're going to make that sphere and
+
+0:23:40.020,0:23:43.530
+we're gonna make it really wide out on
+
+0:23:42.090,0:23:44.550
+your fat we're going to skew it out so
+
+0:23:43.530,0:23:47.100
+let's have a look at the instruction to
+
+0:23:44.550,0:23:48.780
+see what they recommend we do so we've
+
+0:23:47.100,0:23:50.310
+got here we've got a sphere and it says
+
+0:23:48.780,0:23:52.740
+there we want to scale it down so we
+
+0:23:50.310,0:23:54.600
+want to make the Y and the Z quite small
+
+0:23:52.740,0:23:56.520
+and we want to make our radius bigger
+
+0:23:54.600,0:23:59.370
+than the body so let's do that now let's
+
+0:23:56.520,0:24:01.530
+go back to our blocks so make the radius
+
+0:23:59.370,0:24:04.080
+bigger than the body so what's that last
+
+0:24:01.530,0:24:06.810
+nonetheless has radius ten let's make
+
+0:24:04.080,0:24:08.070
+that a bit bigger really is 20 well
+
+0:24:06.810,0:24:09.360
+that'll be massive his legs would be
+
+0:24:08.070,0:24:16.590
+twice as long as his body then that's a
+
+0:24:09.360,0:24:17.970
+bit too big 13 14 15 cool and then we
+
+0:24:16.590,0:24:19.500
+want to change our wine Zed numbers
+
+0:24:17.970,0:24:22.740
+before you do that change the wine said
+
+0:24:19.500,0:24:25.660
+numbers down to likes 0.3 I think and in
+
+0:24:22.740,0:24:27.250
+the last one 0.3 as well yeah
+
+0:24:25.660,0:24:29.290
+cool so what we've done there is we're
+
+0:24:27.250,0:24:31.270
+gonna have our X scale be one point four
+
+0:24:29.290,0:24:33.280
+when I have a Y scale shrink right down
+
+0:24:31.270,0:24:34.780
+and as head scale will also shrink right
+
+0:24:33.280,0:24:36.160
+down so when you render that now so you
+
+0:24:34.780,0:24:41.050
+should get a little yellow feet sticking
+
+0:24:36.160,0:24:44.500
+out there we go they cool even talked
+
+0:24:41.050,0:24:46.150
+about that it's cool legs yeah like it
+
+0:24:44.500,0:24:51.250
+you make it shorter if you want man just
+
+0:24:46.150,0:24:55.180
+change the radius okay okay you can do
+
+0:24:51.250,0:24:58.660
+any that's better yeah have you can that
+
+0:24:55.180,0:25:01.150
+be good okay so what we need to do now
+
+0:24:58.660,0:25:02.620
+is instead of make a bunch of different
+
+0:25:01.150,0:25:04.930
+legs we're going to make another sphere
+
+0:25:02.620,0:25:06.070
+and then instead of just like making six
+
+0:25:04.930,0:25:07.360
+different legs and I make another long
+
+0:25:06.070,0:25:09.190
+sphere but we're going to twist it a
+
+0:25:07.360,0:25:10.600
+little bit so it looks like he's got six
+
+0:25:09.190,0:25:11.890
+legs so let's click another plus in our
+
+0:25:10.600,0:25:14.380
+Union at the top there so we're gonna
+
+0:25:11.890,0:25:15.700
+make another hole in our union block so
+
+0:25:14.380,0:25:18.040
+across video and your codes over here
+
+0:25:15.700,0:25:20.560
+the top block where it says Union in
+
+0:25:18.040,0:25:23.350
+your code have a look in your blocks on
+
+0:25:20.560,0:25:24.820
+the workspace where's his difference
+
+0:25:23.350,0:25:29.080
+then next one down is Union click the
+
+0:25:24.820,0:25:31.900
+plus and again make two more spheres
+
+0:25:29.080,0:25:34.810
+okay so select your your legs there
+
+0:25:31.900,0:25:39.700
+where it says color yellow yeah
+
+0:25:34.810,0:25:41.950
+duplicate that block clicking for the
+
+0:25:39.700,0:25:44.890
+hole underneath yeah yep
+
+0:25:41.950,0:25:47.050
+and duplicate it again and click it into
+
+0:25:44.890,0:25:48.400
+the hole underneath there we go so there
+
+0:25:47.050,0:25:49.270
+we go so now we've made feeley's what we
+
+0:25:48.400,0:25:52.330
+have to do with them though we haven't
+
+0:25:49.270,0:25:56.050
+twisted them yet have we okay so we need
+
+0:25:52.330,0:25:58.540
+to go to some transforms and this one we
+
+0:25:56.050,0:26:00.880
+want rotate so translate is moving
+
+0:25:58.540,0:26:03.130
+around rotate is to spin it on the spot
+
+0:26:00.880,0:26:05.110
+okay so we're gonna grab a rotate block
+
+0:26:03.130,0:26:07.420
+and pop it in our workspace cool grab
+
+0:26:05.110,0:26:09.760
+your second color yellow block one in
+
+0:26:07.420,0:26:13.290
+the middle next one up that's it drag it
+
+0:26:09.760,0:26:17.470
+into the rotate and pop that back in
+
+0:26:13.290,0:26:18.160
+hopefully that's it whole thing and then
+
+0:26:17.470,0:26:24.130
+you can do that again with another
+
+0:26:18.160,0:26:28.450
+rotate block rotate then put your
+
+0:26:24.130,0:26:31.180
+color-block in yep and drag the whole
+
+0:26:28.450,0:26:33.460
+thing back in and then we want to do is
+
+0:26:31.180,0:26:34.960
+we want to change our rotate so in your
+
+0:26:33.460,0:26:39.450
+first one to in the middle there where
+
+0:26:34.960,0:26:42.390
+it says up a bit up a bit yeah so
+
+0:26:39.450,0:26:46.470
+in this block here yeah we won't change
+
+0:26:42.390,0:26:49.230
+that number to 30 and you'll see that
+
+0:26:46.470,0:26:51.330
+the little angular indicator will show
+
+0:26:49.230,0:26:52.860
+you what 30 degrees looks like that's
+
+0:26:51.330,0:26:56.520
+how much we're going to twist our legs
+
+0:26:52.860,0:27:00.770
+by and then for the next one we want so
+
+0:26:56.520,0:27:02.880
+well that's okay I make a 30 click yep
+
+0:27:00.770,0:27:05.580
+excellent 30 degrees and then for our
+
+0:27:02.880,0:27:07.080
+next one down in the Zed rotate down a
+
+0:27:05.580,0:27:11.160
+bit we're in the rotate block which is
+
+0:27:07.080,0:27:12.240
+zero degrees that's it in there we want
+
+0:27:11.160,0:27:14.400
+to change that one now you could put
+
+0:27:12.240,0:27:16.920
+minus 30 because we want it to turn 30
+
+0:27:14.400,0:27:18.840
+degrees the other way the other thing
+
+0:27:16.920,0:27:22.620
+you could do is you could say 360
+
+0:27:18.840,0:27:27.810
+degrees minus 30 is 330 degrees but
+
+0:27:22.620,0:27:29.730
+we're lazy so let's put in minus 30 when
+
+0:27:27.810,0:27:31.800
+you enter it will automatically change
+
+0:27:29.730,0:27:33.810
+to 330 degrees for you because it's
+
+0:27:31.800,0:27:35.880
+clever like that so now when Xavier
+
+0:27:33.810,0:27:37.290
+renders his picture gone takes a little
+
+0:27:35.880,0:27:38.880
+bit longer than more complicated bits
+
+0:27:37.290,0:27:44.670
+you add the longer it takes and there we
+
+0:27:38.880,0:27:48.090
+go nice one so let's go back to my
+
+0:27:44.670,0:27:50.940
+instructions but we can make like spiced
+
+0:27:48.090,0:27:52.380
+wing doors what's crazy stuff wrong but
+
+0:27:50.940,0:27:53.580
+we're on that time today we're right at
+
+0:27:52.380,0:27:56.580
+the end of our video now I've already
+
+0:27:53.580,0:27:59.700
+been half the house everybody okay
+
+0:27:56.580,0:28:01.800
+so third pair of legs and we've done it
+
+0:27:59.700,0:28:03.540
+and in the next challenge the next step
+
+0:28:01.800,0:28:05.160
+is to design your own bug and you can do
+
+0:28:03.540,0:28:06.750
+different stuff Konya we can make text
+
+0:28:05.160,0:28:08.460
+we can do all sorts of crazy things but
+
+0:28:06.750,0:28:09.750
+I'll add some bonus features videos
+
+0:28:08.460,0:28:10.860
+again like I usually do and I'll show
+
+0:28:09.750,0:28:12.660
+you how to put your name on it stuff
+
+0:28:10.860,0:28:14.070
+like that so once you've done that
+
+0:28:12.660,0:28:18.750
+everybody what you do to go back to
+
+0:28:14.070,0:28:20.280
+blocks CAD fantastic and then down this
+
+0:28:18.750,0:28:21.390
+bottom here we want to click it just yet
+
+0:28:20.280,0:28:24.330
+but we'll show you where it is so save
+
+0:28:21.390,0:28:27.120
+your show that generate STL button so an
+
+0:28:24.330,0:28:29.430
+STL is a special kind of file that you
+
+0:28:27.120,0:28:31.470
+use in 3d graphing and things like that
+
+0:28:29.430,0:28:33.390
+you can generate that file and just load
+
+0:28:31.470,0:28:36.030
+it into any 3d printer and a 3d botswana
+
+0:28:33.390,0:28:37.080
+maker for you yep yep generate is to
+
+0:28:36.030,0:28:39.150
+your button in the bottom corner
+
+0:28:37.080,0:28:41.010
+absolutely next to render that's right
+
+0:28:39.150,0:28:42.450
+so we click it and it makes us a file
+
+0:28:41.010,0:28:44.340
+you can see down here mine is called
+
+0:28:42.450,0:28:46.020
+untitled as a vias put on Todd because
+
+0:28:44.340,0:28:47.580
+we didn't name it so if you go up here
+
+0:28:46.020,0:28:50.040
+and you call it something else so we
+
+0:28:47.580,0:28:52.230
+call it like we can call it excellent so
+
+0:28:50.040,0:28:53.270
+now in just maybe a clicks generate sto
+
+0:28:52.230,0:28:56.240
+it will make a fire
+
+0:28:53.270,0:28:58.490
+with the name bug to do it again dick
+
+0:28:56.240,0:28:59.960
+there we go and then you can see down
+
+0:28:58.490,0:29:01.610
+the bottom left of our screen there it
+
+0:28:59.960,0:29:04.190
+says bug to which is the file that it
+
+0:29:01.610,0:29:05.930
+just saved so that's how to make a 3d
+
+0:29:04.190,0:29:07.460
+bug and what we'll do now is I'll go
+
+0:29:05.930,0:29:09.470
+downstairs and pop it in a 3d printer
+
+0:29:07.460,0:29:10.790
+and I'll get that on tape for you guys
+
+0:29:09.470,0:29:12.590
+so you can have a look at what a 3d
+
+0:29:10.790,0:29:13.730
+print and make the thing and there's
+
+0:29:12.590,0:29:16.100
+anything you want to add about making
+
+0:29:13.730,0:29:19.400
+the bug yeah
+
+0:29:16.100,0:29:22.280
+and when you make the bug and the legs
+
+0:29:19.400,0:29:25.610
+on the body you can make it really long
+
+0:29:22.280,0:29:28.910
+you can make I think when you make the
+
+0:29:25.610,0:29:33.230
+body a bit fatter and rounder and round
+
+0:29:28.910,0:29:34.580
+you can else we print it bigger yeah so
+
+0:29:33.230,0:29:35.990
+we can scale the economy so we can make
+
+0:29:34.580,0:29:37.070
+our file here and once you get on a 3d
+
+0:29:35.990,0:29:39.200
+printer you can scale it up and down
+
+0:29:37.070,0:29:40.580
+again so however big it comes out if
+
+0:29:39.200,0:29:41.690
+you've made it too big by accident you
+
+0:29:40.580,0:29:43.010
+don't want to use all that plastic or
+
+0:29:41.690,0:29:44.960
+mom or dad says you can't use that much
+
+0:29:43.010,0:29:46.610
+filament then you can scale it down
+
+0:29:44.960,0:29:48.380
+inside the 3d printer and print it nice
+
+0:29:46.610,0:29:50.830
+and small we work do that's a
+
+0:29:48.380,0:29:53.060
+complicated mess for a little dude yep
+
+0:29:50.830,0:29:54.410
+yeah you sure you did get it like do you
+
+0:29:53.060,0:29:56.030
+understand a bit more about geometry and
+
+0:29:54.410,0:29:58.910
+stuff now have 3d shapes and things work
+
+0:29:56.030,0:30:05.150
+yeah that's good man listen come again
+
+0:29:58.910,0:30:11.300
+MT d4 is flat gonna taper yep 3d is
+
+0:30:05.150,0:30:13.190
+round nice should we make some Pokemon
+
+0:30:11.300,0:30:14.990
+balls for 3d printer yeah I just do that
+
+0:30:13.190,0:30:16.070
+later a nice so let's say goodbye to
+
+0:30:14.990,0:30:19.090
+everybody for now and we'll see him next
+
+0:30:16.070,0:30:37.210
+time I buy game bye
+
+0:30:19.090,0:30:39.270
+[Music]
+
+0:30:37.210,0:30:39.270
+you
+
